@@ -11,4 +11,3 @@ Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
   '''Escribe el comando install´´´
 
 **Mas**
-***** UN CAMBIO MAS
